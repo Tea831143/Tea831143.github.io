@@ -13,9 +13,15 @@
 &lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;p>&lt;img src="https://Tea831143.github.io/%e5%a4%87%e4%bb%bdssh%e9%85%8d%e7%bd%ae%e6%96%87%e4%bb%b6.png"
+&lt;/div>&lt;p>&lt;img src="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/%E5%A4%87%E4%BB%BDssh%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.png"
+width="1240"
+height="260"
+srcset="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/%E5%A4%87%E4%BB%BDssh%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6_hu3700941947275191511.png 480w, https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/%E5%A4%87%E4%BB%BDssh%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6_hu6229205127267502985.png 1024w"
 loading="lazy"
 alt="备份ssh配置文件"
+class="gallery-image"
+data-flex-grow="476"
+data-flex-basis="1144px"
 >&lt;/p>
 &lt;h3 id="122-编辑-ssh-配置文件">1.2.2 编辑 SSH 配置文件
 &lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
@@ -48,13 +54,25 @@ alt="备份ssh配置文件"
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">netstat -tuln &lt;span class="p">|&lt;/span> grep newport
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;p>&lt;img src="https://Tea831143.github.io/%e4%bf%ae%e6%94%b9ssh%e7%9b%91%e5%90%ac%e7%ab%af%e5%8f%a3.png"
+&lt;/div>&lt;p>&lt;img src="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/%E4%BF%AE%E6%94%B9ssh%E7%9B%91%E5%90%AC%E7%AB%AF%E5%8F%A3.png"
+width="1554"
+height="817"
+srcset="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/%E4%BF%AE%E6%94%B9ssh%E7%9B%91%E5%90%AC%E7%AB%AF%E5%8F%A3_hu2583422280609152106.png 480w, https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/%E4%BF%AE%E6%94%B9ssh%E7%9B%91%E5%90%AC%E7%AB%AF%E5%8F%A3_hu6404680041222791755.png 1024w"
 loading="lazy"
 alt="修改ssh端口"
+class="gallery-image"
+data-flex-grow="190"
+data-flex-basis="456px"
 >&lt;/p>
-&lt;p>&lt;img src="https://Tea831143.github.io/%e4%bf%ae%e6%94%b9ssh%e7%9b%91%e5%90%ac%e7%ab%af%e5%8f%a3%e5%90%8e%e6%9f%a5%e7%9c%8b.png"
+&lt;p>&lt;img src="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/%E4%BF%AE%E6%94%B9ssh%E7%9B%91%E5%90%AC%E7%AB%AF%E5%8F%A3%E5%90%8E%E6%9F%A5%E7%9C%8B.png"
+width="1224"
+height="250"
+srcset="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/%E4%BF%AE%E6%94%B9ssh%E7%9B%91%E5%90%AC%E7%AB%AF%E5%8F%A3%E5%90%8E%E6%9F%A5%E7%9C%8B_hu7409173619213468797.png 480w, https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/%E4%BF%AE%E6%94%B9ssh%E7%9B%91%E5%90%AC%E7%AB%AF%E5%8F%A3%E5%90%8E%E6%9F%A5%E7%9C%8B_hu13341468637060419448.png 1024w"
 loading="lazy"
 alt="查看ssh端口"
+class="gallery-image"
+data-flex-grow="489"
+data-flex-basis="1175px"
 >&lt;/p>
 &lt;h1 id="二ssh-默认端口修改后无法进行远程登录排查思路">二、ssh 默认端口修改后无法进行远程登录排查思路
 &lt;/h1>&lt;h2 id="21-检查服务端已启用-ssh-服务">2.1 检查服务端已启用 ssh 服务
@@ -67,9 +85,15 @@ alt="查看ssh端口"
 &lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">systemctl status sshd
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;p>&lt;img src="https://Tea831143.github.io/ssh%e6%9c%8d%e5%8a%a1%e5%b7%b2%e5%90%af%e7%94%a801.png"
+&lt;/div>&lt;p>&lt;img src="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/ssh%E6%9C%8D%E5%8A%A1%E5%B7%B2%E5%90%AF%E7%94%A801.png"
+width="1503"
+height="607"
+srcset="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/ssh%E6%9C%8D%E5%8A%A1%E5%B7%B2%E5%90%AF%E7%94%A801_hu15089516284498894602.png 480w, https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/ssh%E6%9C%8D%E5%8A%A1%E5%B7%B2%E5%90%AF%E7%94%A801_hu5353276370691980726.png 1024w"
 loading="lazy"
 alt="ssh服务已启用"
+class="gallery-image"
+data-flex-grow="247"
+data-flex-basis="594px"
 >&lt;/p>
 &lt;p>2、使用 &lt;code>ps&lt;/code> 命令来检查是否有 &lt;code>sshd&lt;/code> 进程正在运行&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
@@ -80,9 +104,15 @@ alt="ssh服务已启用"
 &lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">ps -e &lt;span class="p">|&lt;/span> grep sshd
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;p>&lt;img src="https://Tea831143.github.io/ssh%e6%9c%8d%e5%8a%a1%e5%b7%b2%e5%90%af%e7%94%a802.png"
+&lt;/div>&lt;p>&lt;img src="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/ssh%E6%9C%8D%E5%8A%A1%E5%B7%B2%E5%90%AF%E7%94%A802.png"
+width="520"
+height="127"
+srcset="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/ssh%E6%9C%8D%E5%8A%A1%E5%B7%B2%E5%90%AF%E7%94%A802_hu7155627903148746634.png 480w, https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/ssh%E6%9C%8D%E5%8A%A1%E5%B7%B2%E5%90%AF%E7%94%A802_hu11287442489538505453.png 1024w"
 loading="lazy"
 alt="ssh服务已启用"
+class="gallery-image"
+data-flex-grow="409"
+data-flex-basis="982px"
 >&lt;/p>
 &lt;p>3、使用 &lt;code>netstat&lt;/code> 或 &lt;code>ss&lt;/code> 命令来检查端口22（SSH默认端口）是否正在监听&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
@@ -95,9 +125,15 @@ alt="ssh服务已启用"
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">ss -tlnp &lt;span class="p">|&lt;/span> grep &lt;span class="m">22&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;p>&lt;img src="https://Tea831143.github.io/ssh%e6%9c%8d%e5%8a%a1%e5%b7%b2%e5%90%af%e7%94%a801.png"
+&lt;/div>&lt;p>&lt;img src="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/ssh%E6%9C%8D%E5%8A%A1%E5%B7%B2%E5%90%AF%E7%94%A801.png"
+width="1503"
+height="607"
+srcset="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/ssh%E6%9C%8D%E5%8A%A1%E5%B7%B2%E5%90%AF%E7%94%A801_hu15089516284498894602.png 480w, https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/ssh%E6%9C%8D%E5%8A%A1%E5%B7%B2%E5%90%AF%E7%94%A801_hu5353276370691980726.png 1024w"
 loading="lazy"
 alt="ssh服务已启用"
+class="gallery-image"
+data-flex-grow="247"
+data-flex-basis="594px"
 >&lt;/p>
 &lt;p>如果服务未启用，你可以使用 &lt;code>systemctl start sshd&lt;/code> 命令来启动服务，并使用 &lt;code>systemctl enable sshd&lt;/code> 命令来设置服务在系统启动时自动启动。&lt;/p>
 &lt;h2 id="22-确认客户端和服务端的网络是否联通">2.2 确认客户端和服务端的网络是否联通
@@ -109,7 +145,7 @@ alt="ssh服务已启用"
 &lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">telnet ip port
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;p>![telnet 成功](./Pasted image 20240711171105.png)&lt;/p>
+&lt;/div>&lt;p>![telnet 成功](Pasted image 20240711171105.png)&lt;/p>
 &lt;h2 id="23-确认配置文件无误">2.3 确认配置文件无误
 &lt;/h2>&lt;h2 id="24--检查防火墙是否进行阻断">2.4 检查防火墙是否进行阻断
 &lt;/h2>&lt;p>1、检查是否开启了firewalld&lt;/p>
@@ -156,7 +192,7 @@ alt="ssh服务已启用"
 &lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">iptables -L
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;p>![iptables 检查](./iptables 检查.png)&lt;/p>
+&lt;/div>&lt;p>![iptables 检查](iptables 检查.png)&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
 &lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
@@ -191,9 +227,15 @@ alt="ssh服务已启用"
 &lt;p>&lt;strong>注&lt;/strong>：&lt;a class="link" href="https://api.ipify.org/?format=text" target="_blank" rel="noopener"
 >查询本机IP&lt;/a>&lt;/p>
 &lt;h2 id="25-如果是云服务器需确认服务器安全组对新端口放通">2.5 如果是云服务器，需确认服务器安全组对新端口放通
-&lt;/h2>&lt;p>&lt;img src="https://Tea831143.github.io/%e5%ae%89%e5%85%a8%e7%bb%84%e6%94%be%e9%80%9a%e7%ab%af%e5%8f%a3.png"
+&lt;/h2>&lt;p>&lt;img src="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/%E5%AE%89%E5%85%A8%E7%BB%84%E6%94%BE%E9%80%9A%E7%AB%AF%E5%8F%A3.png"
+width="1713"
+height="216"
+srcset="https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/%E5%AE%89%E5%85%A8%E7%BB%84%E6%94%BE%E9%80%9A%E7%AB%AF%E5%8F%A3_hu2946284668438986278.png 480w, https://Tea831143.github.io/p/%E6%97%A0%E6%B3%95%E8%BF%9B%E8%A1%8Cssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95/%E5%AE%89%E5%85%A8%E7%BB%84%E6%94%BE%E9%80%9A%E7%AB%AF%E5%8F%A3_hu10703775085305191402.png 1024w"
 loading="lazy"
 alt="安全组放通端口"
+class="gallery-image"
+data-flex-grow="793"
+data-flex-basis="1903px"
 >&lt;/p></description></item><item><title>关于</title><link>https://Tea831143.github.io/defaultpages/about/</link><pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate><guid>https://Tea831143.github.io/defaultpages/about/</guid><description>&lt;p>介绍下次再补全吧。&lt;/p>
 &lt;p>这个网站主要用于记录我的学习工作过程。&lt;/p></description></item><item><title>归档</title><link>https://Tea831143.github.io/defaultpages/archives/</link><pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate><guid>https://Tea831143.github.io/defaultpages/archives/</guid><description/></item><item><title>链接</title><link>https://Tea831143.github.io/defaultpages/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Tea831143.github.io/defaultpages/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
 &lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
