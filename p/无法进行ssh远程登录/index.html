@@ -44,7 +44,7 @@
 </span></span><span class=line><span class=cl>ss -tlnp <span class=p>|</span> grep <span class=m>22</span>
 </span></span></code></pre></td></tr></table></div></div><p><img src=/ssh%e6%9c%8d%e5%8a%a1%e5%b7%b2%e5%90%af%e7%94%a801.png loading=lazy alt=ssh服务已启用></p><p>如果服务未启用，你可以使用 <code>systemctl start sshd</code> 命令来启动服务，并使用 <code>systemctl enable sshd</code> 命令来设置服务在系统启动时自动启动。</p><h2 id=22-确认客户端和服务端的网络是否联通>2.2 确认客户端和服务端的网络是否联通</h2><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
 </span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>telnet ip port
-</span></span></code></pre></td></tr></table></div></div><p>![telnet 成功](Pasted image 20240711171105.png)</p><h2 id=23-确认配置文件无误>2.3 确认配置文件无误</h2><h2 id=24--检查防火墙是否进行阻断>2.4 检查防火墙是否进行阻断</h2><p>1、检查是否开启了firewalld</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span></span></code></pre></td></tr></table></div></div><p>![telnet 成功](./Pasted image 20240711171105.png)</p><h2 id=23-确认配置文件无误>2.3 确认配置文件无误</h2><h2 id=24--检查防火墙是否进行阻断>2.4 检查防火墙是否进行阻断</h2><p>1、检查是否开启了firewalld</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
 </span><span class=lnt> 2
 </span><span class=lnt> 3
 </span><span class=lnt> 4
@@ -74,7 +74,7 @@
 </span></span><span class=line><span class=cl>firewall-cmd --reload
 </span></span></code></pre></td></tr></table></div></div><p>2、检查 iptables 是否做了限制</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
 </span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>iptables -L
-</span></span></code></pre></td></tr></table></div></div><p>![iptables 检查](iptables 检查.png)</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></span></code></pre></td></tr></table></div></div><p>![iptables 检查](./iptables 检查.png)</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
 </span><span class=lnt>2
 </span><span class=lnt>3
 </span><span class=lnt>4

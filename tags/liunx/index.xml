@@ -109,7 +109,7 @@ alt="ssh服务已启用"
 &lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">telnet ip port
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;p>![telnet 成功](Pasted image 20240711171105.png)&lt;/p>
+&lt;/div>&lt;p>![telnet 成功](./Pasted image 20240711171105.png)&lt;/p>
 &lt;h2 id="23-确认配置文件无误">2.3 确认配置文件无误
 &lt;/h2>&lt;h2 id="24--检查防火墙是否进行阻断">2.4 检查防火墙是否进行阻断
 &lt;/h2>&lt;p>1、检查是否开启了firewalld&lt;/p>
@@ -156,7 +156,7 @@ alt="ssh服务已启用"
 &lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">iptables -L
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;p>![iptables 检查](iptables 检查.png)&lt;/p>
+&lt;/div>&lt;p>![iptables 检查](./iptables 检查.png)&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
 &lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
